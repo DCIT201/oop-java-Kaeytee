@@ -7,7 +7,7 @@ public class Admin {
 
     public Admin() {
         this.vehicleFleet = new ArrayList<>();
-        this.password = "admin123"; // Set the admin password internally
+        this.password = "Ausss123";
         prepopulateFleet();
     }
 
